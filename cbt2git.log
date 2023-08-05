@@ -1,0 +1,16 @@
+2023-08-06 00:21:13.502523 - Initialized conversion of CBT011
+2023-08-06 00:21:13.622748 - Received CBT.V505.FILE011.PDS from FILE011.XMI 
+2023-08-06 00:21:13.625098 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:21:13.626057 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/$$$DOC
+2023-08-06 00:21:13.627066 - Found $$DOC.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/$$DOC
+2023-08-06 00:21:13.628060 - Found @FILE011.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/@FILE011
+2023-08-06 00:21:13.628961 - Found ADEBE.jcl (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/ADEBE
+2023-08-06 00:21:13.629886 - Found AMSG2USO.jcl (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/AMSG2USO
+2023-08-06 00:21:13.630903 - Found AMSG2USR.jcl (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/AMSG2USR
+2023-08-06 00:21:13.631835 - Found ATSO051.jcl (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/ATSO051
+2023-08-06 00:21:13.632802 - Found DEBE.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/DEBE
+2023-08-06 00:21:13.633665 - Found DEBEJCL.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/DEBEJCL
+2023-08-06 00:21:13.634535 - Found MSG2USEO.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/MSG2USEO
+2023-08-06 00:21:13.635445 - Found MSG2USER.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/MSG2USER
+2023-08-06 00:21:13.636403 - Found OLDDOC.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/OLDDOC
+2023-08-06 00:21:13.637404 - Found TSO051.txt (text/plain) in CBT.V505.FILE011.PDS, moved to PDS/TSO051
